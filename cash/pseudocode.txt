@@ -1,0 +1,11 @@
+1. stdio.h, cs50 en math.h includen
+2. int main(void)
+3. variabele aanmaken
+4. do en while loop gebruiken
+5. change laten invullen door de gebruiker, komma getallen (float) zijn mogelijk
+6. do loop wordt herhaald als het ingevulde getal lager is dan 0.0
+7. als ingevulde bedrag hoger is dan 25, haal er 25 cent vanaf tot dat niet meer mogelijk is en doe dan telkens aantal coins + 1
+8. als ingevulde/overgebleven bedrag lager is dan 25 cent, maar hoger dan 10, haal er telkens 10 cent vanaf tot dat niet meer mogelijk is en doe steeds aantal coins + 1
+9. als ingevulde/overgebleven bedrag lager is dan 10 cent, maar hoger dan 5, haal er telkens 5 cent vanaf tot dat niet meer mogelijk is en doe steeds aantal coins + 1
+10. als ingevulde/overgebleven bedrag lager is dan 5 cent, maar hoger dan 1, haal er steeds 1 cent vanaf en doe aantal coins + 1
+11. totaal aantal coints printen

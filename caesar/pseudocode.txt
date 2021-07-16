@@ -1,0 +1,9 @@
+1. Bij ceasar gaat het erom dat je de ASCII + het aantal doet wat de gebruiker invult. 
+2. Lowercase blijft echter lowercase en upper upper
+3. Dit gebeurt alleen bij het alfabet, niet bij nummers, spaces etc.
+4. alleen sinle command-line argument
+5. Alleen digit characters, getallen
+6. verander argument in integer, het is nu een string
+7. Daarna vraag je plaintext, wat wil je veranderen -> get_string
+
+
